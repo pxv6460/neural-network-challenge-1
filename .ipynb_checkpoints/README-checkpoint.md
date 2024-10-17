@@ -18,4 +18,4 @@ The model I would you would be content-based filtering. The reason content based
 
 One challenge would be data privacy as the system would require access to sesitive data that is personal to the student such as financial information like credit scores and income. The concern would then be regulations like CCPA have strict requirements on collecting personal data which could lead to legal penalties and or damage to the rep of the company or organization collecting the data 
 
-Another challenge would be incomplete data or data that is inconsistant. Examples being students could have gaps in their credit histories, inaccuriate income which can lead to the model being unreliable and would need human intervention
+Another challenge 
